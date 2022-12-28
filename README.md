@@ -11,7 +11,7 @@
 ## :sassy_man:  About me
 - :school: I am a Sophomore at CVR College of Engineering, Hyderabad
 - :technologist: I am a Frontend developer and love tinkering with Software and Operating Systems
-- :computer: Practicing DSA at HackerRank and LeetCode
+- :computer: Practicing DSA at [HackerRank](https://www.hackerrank.com/shubh143560) and [LeetCode](https://leetcode.com/c-shubh/)
 - :student: I’m currently learning: Backend Development at [TheOdinProject.com](https://www.theodinproject.com)
 
 ## 💻 Tech Stack

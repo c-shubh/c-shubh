@@ -43,12 +43,12 @@
 <h2>📊 GitHub Stats</h2>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c-shubh&show_icons=true&count_private=true&theme=algolia" alt="Shubh's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-shubh&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs">
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=c-shubh&show_icons=true&count_private=true&theme=algolia" alt="Shubh's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=c-shubh&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=c-shubh&theme=algolia&hide_border=false" alt="Top Langs">
   <br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=c-shubh&custom_title=Shubh's%20Contribution%20Graph&theme=react-dark" alt="Shubh's activity graph">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=c-shubh&custom_title=Shubh's%20Contribution%20Graph&theme=react-dark" alt="Shubh's activity graph">
 </p>
 
 ## 🌐 Connect with me on:

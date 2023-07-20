@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Shubh A Chudasama</h1>
-<h3 align="center">Undergraduate | Web developer | Programming enthusiast</h3>
+<h1 align="center">Hi, I'm Shubh A Chudasama</h1>
+<h3 align="center">Undergraduate | Web developer | Programmer </h3>
 
 <p align="center">
   <a href="https://www.hackerrank.com/shubh143560"><img src="https://img.shields.io/static/v1?label=HackerRank&message=shubh143560&style=flat-square&logo=HackerRank&color=blue" alt="HackerRank logo" /></a>
@@ -10,9 +10,9 @@
 
 ## :sassy_man:  About me
 - :school: I am a Sophomore at CVR College of Engineering, Hyderabad
-- :technologist: I am a Frontend developer and love tinkering with Software and Operating Systems
-- :computer: Practicing DSA at [HackerRank](https://www.hackerrank.com/shubh143560) and [LeetCode](https://leetcode.com/c-shubh/)
-- :student: I’m currently learning: Backend Development at [TheOdinProject.com](https://www.theodinproject.com)
+- :technologist: I am a Fullstack developer who loves tinkering with Software and Operating Systems
+- :computer: Practicing DSA at [LeetCode](https://leetcode.com/c-shubh/)
+
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,8 +54,6 @@
 ## 🌐 Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/c-shubh)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/c_shubh_)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/c-shubh)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13460650)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/c_shubh_)
 
 ## Misc

@@ -9,9 +9,9 @@
 </p>
 
 ## :sassy_man:  About me
-- :school: I am a Sophomore at CVR College of Engineering, Hyderabad
 - :technologist: I am a Fullstack developer who loves tinkering with Software and Operating Systems
 - :computer: Practicing DSA at [LeetCode](https://leetcode.com/c-shubh/)
+- :school: Student at CVR College of Engineering, Hyderabad
 
 
 ## 💻 Tech Stack
@@ -46,9 +46,7 @@
   <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=c-shubh&show_icons=true&count_private=true&theme=algolia" alt="Shubh's GitHub stats" />
   <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=c-shubh&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Langs">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c-shubh&theme=algolia&hide_border=false" alt="Top Langs">
-  <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=c-shubh&custom_title=Shubh's%20Contribution%20Graph&theme=react-dark" alt="Shubh's activity graph">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c-shubh&theme=algolia&hide_border=false" alt="Contribution summary">
 </p>
 
 ## 🌐 Connect with me on:

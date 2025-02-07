@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shubh A Chudasama</h1>
+<h1 align="center">Hi, I'm <a href="https://cshubh.com">Shubh A Chudasama</a></h1>
 
 <p align="center">
   <a href="https://www.hackerrank.com/shubh143560"><img src="https://img.shields.io/static/v1?label=HackerRank&message=shubh143560&style=flat-square&logo=HackerRank&color=blue" alt="HackerRank logo" /></a>
